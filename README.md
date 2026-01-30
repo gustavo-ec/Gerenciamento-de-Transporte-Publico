@@ -43,3 +43,4 @@ Simula o gerenciamento de saldo em TechVille: recargas, compra de passagens com 
    ```bash python src/Gerenciamento_Transporte_Publico-estrutura_v2.6 - PBL 1
    git clone https://github.com/gustavo-ec/Gerenciamento-de-Transporte-Publico.git
    cd Gerenciamento-de-Transporte-Publico
+   python src/Gerenciamento_Transporte_Publico-estrutura_v2.6.py
