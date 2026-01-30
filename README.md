@@ -12,9 +12,9 @@ Simula o gerenciamento de saldo em TechVille: recargas, compra de passagens com 
 
 ##👤 Autor
 
-**Gustavo Silva Ribeiro**
-**Bacharelando em Engenharia da Computação – UEFS**
-**Email: gustavosr.comp@gmail.com**
+  **Gustavo Silva Ribeiro**
+  **Bacharelando em Engenharia da Computação – UEFS**
+  **Email: gustavosr.comp@gmail.com**
 
 ## ✨ Funcionalidades
 
