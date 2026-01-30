@@ -10,7 +10,7 @@ Simula o gerenciamento de saldo em TechVille: recargas, compra de passagens com 
   <img src="imagens/exemplo-menu.png" alt="Menu do Sistema" width="500"/>
 </p>
 
-##👤 Autor
+## 👤 Autor
 
   **Gustavo Silva Ribeiro**
   **Bacharelando em Engenharia da Computação – UEFS**
