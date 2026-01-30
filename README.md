@@ -10,6 +10,12 @@ Simula o gerenciamento de saldo em TechVille: recargas, compra de passagens com 
   <img src="imagens/exemplo-menu.png" alt="Menu do Sistema" width="500"/>
 </p>
 
+##👤 Autor
+
+**Gustavo Silva Ribeiro**
+**Bacharelando em Engenharia da Computação – UEFS**
+**Email: gustavosr.comp@gmail.com**
+
 ## ✨ Funcionalidades
 
 - Configuração do valor da passagem
@@ -25,6 +31,11 @@ Simula o gerenciamento de saldo em TechVille: recargas, compra de passagens com 
 - **Linguagem:** Python 3.13.2
 - **Ambiente:** Visual Studio Code + Windows 11
 - **Estruturas usadas:** Variáveis, `while`, `if/elif/else`, `match/case`, métodos de string como `.strip()`, `.replace()`, `.isdigit()`
+
+## 📄 Documentação e Código
+
+- **Código fonte:** [src/Gerenciamento_Transporte_Publico-estrutura_v2.6.py]
+- **Relatório técnico:** [Relatório (PDF) - Docs/Relatório do problema 1 - Gustavo Silva Ribeiro-1.pdf]
 
 ## 🚀 Como Executar
 
